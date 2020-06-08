@@ -17,6 +17,7 @@
 - evernote
 - spotify
 - xcode
+- slack
 
 ## Dev
 
